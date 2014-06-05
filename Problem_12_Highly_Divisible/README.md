@@ -1,4 +1,5 @@
 Problem 12 - Highly Divisible Triangular Number
+=============================
 
 View Euler Problem Page:
 
